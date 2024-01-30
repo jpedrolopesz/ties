@@ -2890,6 +2890,7 @@ dependencies = [
  "futures",
  "libp2p",
  "log",
+ "once_cell",
  "pretty_env_logger",
  "serde",
  "tokio",
